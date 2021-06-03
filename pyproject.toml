@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "uniswap-python"
-version = "0.4.6"
+version = "0.4.7"
 description = "An unofficial Python wrapper for the Uniswap exchange"
-repository = "https://github.com/shanefontaine/uniswap-python"
+repository = "https://github.com/iancmoritz/uniswap-python"
 readme = "README.md"
 keywords = ["uniswap", "ethereum", "exchange", "trading"]
-authors = ["Shane Fontaine <shane6fontaine@gmail.com>", "Erik Bjäreholt <erik@bjareho.lt>"]
+authors = ["Shane Fontaine <shane6fontaine@gmail.com>", "Erik Bjäreholt <erik@bjareho.lt>", "Ian Moritz <icm35@cornell.edu>"]
 license = "MIT"
 packages = [
     { include = "uniswap" },
